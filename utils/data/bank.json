@@ -3,35 +3,35 @@
     "bank_name": "Phase",
     "location": "Chicago",
     "firebasekey":   "-NP5HlVG5f-CCOMXpkFN",
-    "interest_rate": 'Low",
-    "loan_types": "buisness",
+    "interest_rate": "Low",
+    "loan_types": "buisness"
   },
   "-NP5HlVI1sfUA9l8pjpc": {
     "bank_name": "Wells Cargo",
     "location": "Nashville",
     "firebasekey": "-NP5HlVI1sfUA9l8pjpc",
     "interest_rate": "Low",
-    "loan_types": buisness,
+    "loan_types": "buisness"
   },
   "-NP5HlVL69tY-w2sb2C0": {
     "bank_name": "Bank of Americas",
     "location": "Atlanta",
     "firebasekey": "-NP5HlVL69tY-w2sb2C0",
     "interest_rate": "High",
-    "loan_types": "both",
+    "loan_types": "both"
   },
   "-NP5HlVNoLuejgMq7pHC": {
     "bank_name": "Regional",
     "location": "Atlanta",
     "firebasekey":  "-NP5HlVNoLuejgMq7pHC",
     "interest_rate": "Low",
-    "loan_types": "both",
+    "loan_types": "both"
   },
   "-NP5HlVQm0rkMWTxNdvz": {
     "bank_name": "Nanine",
     "location": "Nashville",
     "firebasekey":   "-NP5HlVQm0rkMWTxNdvz",
     "interest_rate": "High",
-    "loan_types": "both",
+    "loan_types": "both"
   }
 }
