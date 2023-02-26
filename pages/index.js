@@ -1,4 +1,3 @@
-import { signOut } from '../utils/auth';
 import { useAuth } from '../utils/context/authContext';
 
 function Home() {
@@ -6,7 +5,7 @@ function Home() {
 
   return (
     <div
-      className="text-center d-flex flex-column justify-content-center align-content-center"
+      className="text-center justify-content-center align-content-center"
       style={{
         height: '90vh',
         padding: '30px',
@@ -15,9 +14,11 @@ function Home() {
       }}
     >
       <h1>Hello {user.displayName}! </h1>
-      <p>Click the button below to logout!</p>
-      <button className="btn btn-danger btn-lg copy-btn" type="button" onClick={signOut}>
-        Sign Out
+      <button className="btn btn-success btn-lg copy-btn" type="button">
+        Bank
+      </button>
+      <button className="btn btn-success btn-lg copy-btn" type="button">
+        Business Owner
       </button>
     </div>
   );
